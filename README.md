@@ -1,6 +1,6 @@
 ## **Machine-learning-projects**
 - Some machine learning algorithms used for classification, dimension reduction and clustering data.
-- co-author @zezosarg
+- authors [zezosarg](https://github.com/zezosarg) & [pboulotis](https://github.com/pboulotis).
 - These two python programs where used for the exercises for the course named "MYE002- Machine Learning" and are based on two different Kaggle competitions.
 - Both the descriptions (Homework.pdf) and the reports of the exercises are included (in Greek).
 - I recommend reading the report for each exercise before executing the code.
